@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "SYSC-4907"
